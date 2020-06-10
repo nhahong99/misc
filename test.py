@@ -2,3 +2,4 @@ name = 'Cường là đệ của Hồng, Cường đẹp trai vãi cả đái. C
 
 tmp = 'My heart will go on'
 
+print(name)
